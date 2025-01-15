@@ -13,7 +13,7 @@
   },
   "scripts": {
     "tsc": "tsc --project .",
-    "prepare": "npm run tsc"
+    "prepare_bak": "npm run tsc"
   },
   "author": "Appodeal <https://appodeal.com>",
   "license": "MIT",
